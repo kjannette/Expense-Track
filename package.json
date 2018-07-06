@@ -2,7 +2,7 @@
   "name": "Expense-Track",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "S. Jannette",
+  "author": "S.Jannette",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
@@ -22,7 +22,7 @@
     "babel-preset-env": "1.5.2",
     "babel-preset-react": "6.24.1",
     "css-loader": "0.28.4",
-    "express": "^4.16.2",
+    "express": "^4.16.3",
     "extract-text-webpack-plugin": "^3.0.2",
     "firebase": "^5.2.0",
     "history": "^4.7.2",
