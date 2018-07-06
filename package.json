@@ -1,8 +1,8 @@
 {
-  "name": "mad_dollaz",
+  "name": "Expense-Track",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Joey Bananas",
+  "author": "S. Jannette",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
@@ -23,7 +23,7 @@
     "babel-preset-react": "6.24.1",
     "css-loader": "0.28.4",
     "express": "^4.16.2",
-    "extract-text-webpack-plugin": "3.0.0",
+    "extract-text-webpack-plugin": "^3.0.2",
     "firebase": "^5.2.0",
     "history": "^4.7.2",
     "moment": "^2.19.1",
