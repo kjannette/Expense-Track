@@ -1,0 +1,26 @@
+git init: in root folder to init new repo
+
+git add: too add individual files to staging area
+
+git add . : to add everything in root
+
+git status: see view changes
+
+git commit -m "message about commit" : to commit with message
+
+git log: view all commits with their comments
+
+Your identification has been saved in /Users/KenJannette/.ssh/id_rsa.
+Your public key has been saved in /Users/KenJannette/.ssh/id_rsa.pub.
+
++---[RSA 4096]----+
+|   o+o. . o .    |
+|    ++ . . +     |
+|     .o E .      |
+|     . . o o   . |
+|      . S + . o .|
+|     + o o . + * |
+|    = o.* . . = +|
+|     +.*.*.o.. +.|
+|      +++ *+... o|
++----[SHA256]-----+
