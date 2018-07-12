@@ -2,7 +2,7 @@ import * as firebase from "firebase";
 
 var config = {}
 
-if(window || process.env.NODE_ENV != 'test') {
+if(window) {
     config = {
         apiKey: et.config.FIREBASE_API_KEY,
         authDomain: et.config.FIREBASE_AUTH_DOMAIN,
