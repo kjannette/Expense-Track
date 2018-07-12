@@ -3,7 +3,7 @@
 OBJECT DESTRUCTURING:
 
 const person = {
-  name: "nigger jim",
+  name: "old man jim",
   age: 103,
   location: {
     city: "Biloxi",
