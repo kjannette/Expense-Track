@@ -2,7 +2,7 @@ import * as firebase from "firebase";
 
 var config = {}
 
-if(window) {
+if(window && typeof et !== 'undefined') {
     config = {
         apiKey: et.config.FIREBASE_API_KEY,
         authDomain: et.config.FIREBASE_AUTH_DOMAIN,
